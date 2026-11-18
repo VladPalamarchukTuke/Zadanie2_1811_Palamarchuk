@@ -1,5 +1,5 @@
 Zadanie 2 
 Vladyslav Palamarchuk
 
-Pre hodnotenie vyžite RELEASE file
+Pre hodnotenie využite RELEASE file
 Ďakujem
